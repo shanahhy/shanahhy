@@ -54,9 +54,7 @@ I enjoy translating complex scientific or engineering problems into robust compu
 ### **Autonomous Litter-Collecting Robot (Robotics Team Project)**  
 - Co-developed an autonomous mobile robot to detect, collect, and dispose of litter on university sidewalks  
 - Designed embedded control loops, sensor integration, and autonomous navigation workflows  
-- Collaborated in a team of four on mechanical design, electronics, and algorithm development  
 - Prototype included differential drive, object detection, environmental sensing, and autonomous actuation  
-- Demonstrated at the University of Cincinnati Robotics Showcase
 
 ---
 
