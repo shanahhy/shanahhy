@@ -1,16 +1,121 @@
-## Hi there 👋
+# Hi, I'm Hailey Shanahan 👋  
+**Scientist–Engineer | Biomedical Engineering | Computational Biology | Cybersecurity | ML/IoT Systems**
 
-<!--
-**shanahhy/shanahhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build at the intersection of **biomedical engineering**, **machine learning**, **cybersecurity**, and **automation**.  
+My work blends computational pipelines, IoT systems, lab instrumentation, and applied research to solve real-world problems in biology, security, and sensing technology.
 
-Here are some ideas to get you started:
+📍 **NYC** | 🎓 M.S. Computer Science (Cybersecurity), NYU  
+📧 hes9978@nyu.edu  
+🔗 [LinkedIn] https://www.linkedin.com/in/shanahhy/ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧬 About Me  
+I’m a scientist-engineer with experience building **automated workflows**, designing **IoT sensor systems**, and supporting **fast-paced R&D environments**. I specialize in:
+
+- Python/R/Java scripting and ML modeling  
+- Instrumentation + IoT sensor monitoring  
+- Lab automation and workflow engineering  
+- Robotics & embedded systems  
+- Data pipelines and digital forensics  
+- Cross-disciplinary scientific communication  
+
+I enjoy translating complex scientific or engineering problems into robust computational solutions.
+
+---
+
+## 💼 Professional Experience
+
+### **Laboratory Manager — Frontier Medicines** (2023–2025)  
+- Directed operations for a 60-member oncology R&D organization  
+- Implemented > **$300K cost savings** through workflow and procurement optimization  
+- Installed & maintained IoT monitoring systems → **20% increase in equipment reliability**  
+- Managed lab infrastructure, compliance, calibration, gas systems, and cross-functional engineering projects  
+
+### **Scientist I / Lab Manager — Koniku** (2022–2023)  
+- Increased VOC detection sensitivity **130%** through novel biosensor parameter testing  
+- Developed Python automation for inventory → **saved $20K/month in SaaS fees**  
+- Supported demonstrations, POCs, and technical presentations for investors & partners (Airbus, MTM Robotics)  
+- Built electronic and BSL2 wet labs from the ground up  
+
+### **Research Assistant / Lab Manager — UC College of Medicine** (2018–2022)  
+- Managed >$500K annual procurement and research compliance  
+- Built IoT environmental monitoring system → improved behavioral study reliability **30%**  
+- Performed molecular biology assays: RNA extraction, qPCR, flow cytometry  
+- Provided technical support to graduate and postdoc researchers  
+
+### **Molecular Biology Research — Northern Kentucky University** (2014–2016)  
+- Bench virology & immunology research developing a Hepatitis C vaccine candidate  
+- Managed cell culture lines, viral titrations, PCR workflows, molecular analysis  
+
+---
+
+## 🧪 Technical Projects
+
+### **Machine Learning for Credit Card Fraud Detection** (2025)  
+- Python + scikit-learn ML pipeline achieving **>95% precision**  
+- Built real-time classification system for anomaly detection
+
+### **BLE Device Privacy: Location De-Sensitization Algorithms** (2024)  
+- Created algorithms to reduce BLE device trackability while maintaining communication integrity  
+- Simulated BLE mobility patterns and signal profiles  
+
+### **IoT Network Privacy Analysis** (2024)  
+- Modeled OS vulnerabilities and packet-level behaviors  
+- Built Python tooling for privacy leakage assessment  
+
+### **Digital Forensics Toolkit** (2024)  
+- Automated extraction & correlation of digital artifacts  
+- Improved analysis throughput with Python scripting  
+
+### **Low-Cost Rodent Motion Detection System**  
+- ML + IoT + Arduino-based motion tracking system  
+- Integrated imaging, signal processing, and automated behavior scoring  
+
+### **Autonomous Litter-Collecting Robot (Robotics Team Project)**  
+- Co-developed an autonomous mobile robot to detect, collect, and dispose of litter on university sidewalks  
+- Designed embedded control loops, sensor integration, and autonomous navigation workflows  
+- Collaborated in a team of four on mechanical design, electronics, and algorithm development  
+- Prototype included differential drive, object detection, environmental sensing, and autonomous actuation  
+- Demonstrated at the University of Cincinnati Robotics Showcase
+
+---
+
+## 🧰 Skills
+
+**Computational & Engineering:**  
+Python, R, ML (scikit-learn), MATLAB, Linux, Git/GitHub, IoT systems, robotics, embedded programming, network protocols
+
+**Bioinformatics & Wet Lab:**  
+RNA extraction, qPCR, flow cytometry, virology, molecular biology workflows
+
+**Workflow & Infrastructure:**  
+Reproducible pipelines, cloud systems, automation, debugging, secure data handling
+
+**Engineering & Ops:**  
+Instrumentation installation/maintenance, calibration, electronics integration, monitoring systems
+
+**Professional:**  
+Cross-team communication, scientific writing, technical presentations, rapid learning
+
+---
+
+## 📚 Publications & Appearances  
+- *Brain, Behavior, and Immunity* (2021): Co-author — macrophage signaling & radiculopathy  
+- Graduate Capstone (2022): Automated rodent motion detection using ML + IoT  
+- Conference presentations: Hepatitis C vaccine development (2015–2016)  
+- Cybersecurity manuscript: IoT evidence & chain-of-command (NYU, 2021)  
+- **Robotics Development Team:** Autonomous litter-collecting robot prototype (2020)  
+- Security: Multi-day CTF cybersecurity competition (2021)  
+
+---
+
+## 📌 What I’m Working On  
+- Applying ML + sensor fusion to real-world biology and environmental systems  
+- Expanding cybersecurity skillset (IoT, DFIR, OS hardening)  
+- New open-source tools bridging **bioengineering, cybersecurity, robotics, and automation**
+
+---
+
+## 📫 Contact  
+If you want to collaborate on ML + biology, IoT sensing, security, or automation projects — reach out!  
