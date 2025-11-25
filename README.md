@@ -10,7 +10,7 @@ My work blends computational pipelines, IoT systems, lab instrumentation, and ap
 
 🎓 M.S. Computer Science, Cybersecurity, New York University  
 
-📧 email: hes9978@nyu.edu  
+📧 Email: hes9978@nyu.edu  
 🔗 LinkedIn: https://www.linkedin.com/in/shanahhy/ 
 
 ---
