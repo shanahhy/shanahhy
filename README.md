@@ -1,5 +1,5 @@
 # Hello world, I'm Hailey 👋  
-**Scientist–Engineer | Biomedical Engineering | Computational Biology | Cybersecurity | ML/IoT Systems**
+**Scientist–Engineer | Biomedical Engineering | Computational Biology | Cybersecurity | ML & IoT Systems**
 
 I build at the intersection of **biomedical engineering**, **machine learning**, **cybersecurity**, and **automation**.  
 My work blends computational pipelines, IoT systems, lab instrumentation, and applied research to solve real-world problems in biology, security, and sensing technology.
