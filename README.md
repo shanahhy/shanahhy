@@ -18,11 +18,13 @@ My work blends computational pipelines, IoT systems, lab instrumentation, and ap
 ## 🧬 About Me  
 I’m a scientist-engineer with experience building **automated workflows**, designing **IoT sensor systems**, and supporting **fast-paced R&D environments**. I specialize in:
 
-- Python/R/Java scripting and ML modeling  
-- Instrumentation + IoT sensor monitoring  
+- Software development in Python, R, C, and Java  
+- Version control and workflow management using Git & GitHub  
+- ML modeling for various applications using Jupyter, PyTorch, and scikit-learn  
+- Instrumentation and IoT sensor monitoring  
 - Lab automation and workflow engineering  
-- Robotics & embedded systems  
-- Data pipelines and digital forensics  
+- Robotics and embedded systems  
+- Data pipelines and data visualization  
 - Cross-disciplinary scientific communication  
 
 I enjoy translating complex scientific or engineering problems into robust computational solutions.
