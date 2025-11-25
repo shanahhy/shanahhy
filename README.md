@@ -29,32 +29,6 @@ I enjoy translating complex scientific or engineering problems into robust compu
 
 ---
 
-## 💼 Professional Experience
-
-### **Laboratory Manager — Frontier Medicines** (2023–2025)  
-- Directed operations for a 60-member oncology R&D organization  
-- Implemented > **$300K cost savings** through workflow and procurement optimization  
-- Installed & maintained IoT monitoring systems → **20% increase in equipment reliability**  
-- Managed lab infrastructure, compliance, calibration, gas systems, and cross-functional engineering projects  
-
-### **Scientist I / Lab Manager — Koniku** (2022–2023)  
-- Increased VOC detection sensitivity **130%** through novel biosensor parameter testing  
-- Developed Python automation for inventory → **saved $20K/month in SaaS fees**  
-- Supported demonstrations, POCs, and technical presentations for investors & partners (Airbus, MTM Robotics)  
-- Built electronic and BSL2 wet labs from the ground up  
-
-### **Research Assistant / Lab Manager — UC College of Medicine** (2018–2022)  
-- Managed >$500K annual procurement and research compliance  
-- Built IoT environmental monitoring system → improved behavioral study reliability **30%**  
-- Performed molecular biology assays: RNA extraction, qPCR, flow cytometry  
-- Provided technical support to graduate and postdoc researchers  
-
-### **Molecular Biology Research — Northern Kentucky University** (2014–2016)  
-- Bench virology & immunology research developing a Hepatitis C vaccine candidate  
-- Managed cell culture lines, viral titrations, PCR workflows, molecular analysis  
-
----
-
 ## 🧪 Technical Projects
 
 ### **Machine Learning for Credit Card Fraud Detection** (2025)  
