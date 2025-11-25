@@ -1,4 +1,4 @@
-# Hi, I'm Hailey Shanahan 👋  
+# Hello world, I'm Hailey 👋  
 **Scientist–Engineer | Biomedical Engineering | Computational Biology | Cybersecurity | ML/IoT Systems**
 
 I build at the intersection of **biomedical engineering**, **machine learning**, **cybersecurity**, and **automation**.  
