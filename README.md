@@ -5,8 +5,11 @@ I build at the intersection of **biomedical engineering**, **machine learning**,
 My work blends computational pipelines, IoT systems, lab instrumentation, and applied research to solve real-world problems in biology, security, and sensing technology.
 
 🎓 B.S Biology, Northern Kentucky University 
-🎓 M.Eng Biomedical Engineering, University of Cincinnati
+
+🎓 M.Eng Biomedical Engineering, University of Cincinnati 
+
 🎓 M.S. Computer Science, Cybersecurity, New York University  
+
 📧 hes9978@nyu.edu  
 🔗 [LinkedIn] https://www.linkedin.com/in/shanahhy/ 
 
