@@ -1,4 +1,4 @@
-**Hailey  Shanahan**
+## **Hailey Shanahan**
 
 I build at the intersection of **device engineering**, **machine learning**, **cybersecurity**, and **automation**.  
 My work blends computational pipelines, IoT systems, lab instrumentation, and applied research to solve real-world problems in biology, security, and sensing technology.
@@ -15,8 +15,9 @@ My work blends computational pipelines, IoT systems, lab instrumentation, and ap
 ---
 
 ## 🧬 About Me  
-I’m a scientist-engineer with experience building **automated workflows**, designing **IoT sensor systems**, and supporting **fast-paced R&D environments**. I specialize in:
+I’m a scientist-engineer with experience building **automated workflows**, designing **IoT sensor systems**, and supporting **fast-paced R&D environments**. 
 
+**Skills**
 - Software development in Python, R, C, and Java  
 - Version control and workflow management using Git & GitHub  
 - ML modeling for various applications using Jupyter, PyTorch, and scikit-learn  
@@ -35,18 +36,6 @@ I enjoy translating complex scientific or engineering problems into robust compu
 ### **Machine Learning for Credit Card Fraud Detection** (2025)  
 - Python + scikit-learn ML pipeline achieving **>95% precision**  
 - Built real-time classification system for anomaly detection
-
-### **BLE Device Privacy: Location De-Sensitization Algorithms** (2024)  
-- Created algorithms to reduce BLE device trackability while maintaining communication integrity  
-- Simulated BLE mobility patterns and signal profiles  
-
-### **IoT Network Privacy Analysis** (2024)  
-- Modeled OS vulnerabilities and packet-level behaviors  
-- Built Python tooling for privacy leakage assessment  
-
-### **Digital Forensics Toolkit** (2024)  
-- Automated extraction & correlation of digital artifacts  
-- Improved analysis throughput with Python scripting  
 
 ### **Low-Cost Rodent Motion Detection System**  
 - ML + IoT + Arduino-based motion tracking system  
