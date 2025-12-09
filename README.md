@@ -1,4 +1,4 @@
-## **Hailey Shanahan**
++## **Hailey Shanahan**
 
 I build at the intersection of **device engineering**, **machine learning**, **cybersecurity**, and **automation**.  
 My work blends computational pipelines, IoT systems, lab instrumentation, and applied research to solve real-world problems in biology, security, and sensing technology.
@@ -53,14 +53,11 @@ I enjoy translating complex scientific or engineering problems into robust compu
 **Computational & Engineering:**  
 Python, R, ML (scikit-learn), MATLAB, Linux, Git/GitHub, IoT systems, robotics, embedded programming, network protocols
 
-**Bioinformatics & Wet Lab:**  
-RNA extraction, qPCR, flow cytometry, virology, molecular biology workflows
-
 **Workflow & Infrastructure:**  
 Reproducible pipelines, cloud systems, automation, debugging, secure data handling
 
 **Engineering & Ops:**  
-Instrumentation installation/maintenance, calibration, electronics integration, monitoring systems
+Instrumentation installation/maintenance, calibration, soldering, electronics integration, monitoring systems
 
 **Professional:**  
 Cross-team communication, scientific writing, technical presentations, rapid learning
