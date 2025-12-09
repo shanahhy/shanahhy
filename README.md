@@ -1,21 +1,13 @@
-Hailey  Shanahan
-Master of Science M.S., Computer Science, Cybersecurity, Exp Grad. Dec 2025  	   	                          New York, NY
-New York University (NYU), Tandon College of Engineering,						
-
-Master of Engineering M.Eng., Biomedical Engineering,						              	                            Cincinnati, OH
-University of Cincinnati (UC), College of Engineering and Applied Science (CEAS), 
-
-Bachelor of Science B.S., Biological Sciences, Minor in Chemistry, Molecularular Biology Track          	  Highland Heights, KY                                     
-Northern Kentucky University (NKU), College of Art & Sciences
+**Hailey  Shanahan**
 
 I build at the intersection of **device engineering**, **machine learning**, **cybersecurity**, and **automation**.  
 My work blends computational pipelines, IoT systems, lab instrumentation, and applied research to solve real-world problems in biology, security, and sensing technology.
 
-🎓 B.S. Biology, Northern Kentucky University 
+🎓 M.S. Computer Science, Cybersecurity, New York University  
 
 🎓 M.Eng. Biomedical Engineering, University of Cincinnati 
 
-🎓 M.S. Computer Science, Cybersecurity, New York University  
+🎓 B.S. Biology, Northern Kentucky University 
 
 📧 Email: hes9978@nyu.edu  
 🔗 LinkedIn: https://www.linkedin.com/in/shanahhy/ 
