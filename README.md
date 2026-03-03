@@ -1,6 +1,6 @@
-+## **Hailey Shanahan**
+## **Hailey Shanahan**
 
-I build at the intersection of **device engineering**, **machine learning**, **cybersecurity**, and **automation**.  
+I build at the intersection of **data engineering**, **machine learning**, **cybersecurity**, and **automation**.  
 My work blends computational pipelines, IoT systems, lab instrumentation, and applied research to solve real-world problems in biology, security, and sensing technology.
 
 🎓 M.S. Computer Science, Cybersecurity, New York University  
@@ -18,7 +18,7 @@ My work blends computational pipelines, IoT systems, lab instrumentation, and ap
 I’m a scientist-engineer with experience building **automated workflows**, designing **IoT sensor systems**, and supporting **fast-paced R&D environments**. 
 
 **Skills**
-- Software development in Python, R, C, and Java  
+- Programming automation scripts in Python, R, C, and Java  
 - Version control and workflow management using Git & GitHub  
 - ML modeling for various applications using Jupyter, PyTorch, and scikit-learn  
 - Instrumentation and IoT sensor monitoring  
